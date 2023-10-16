@@ -1,2 +1,2 @@
 # BayesianOptimization
-Information Theory and Inference
+Final project for the course *Information Theory and Inference*
